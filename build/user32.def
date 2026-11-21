@@ -1,0 +1,21 @@
+LIBRARY USER32.dll
+EXPORTS
+wsprintfA
+GetAsyncKeyState
+SendInput
+GetForegroundWindow
+GetWindowThreadProcessId
+MapVirtualKeyA
+RegisterClassA
+CreateWindowExA
+DefWindowProcA
+ShowWindow
+SetWindowPos
+UpdateLayeredWindow
+GetClientRect
+ClientToScreen
+PeekMessageA
+DispatchMessageA
+IsWindow
+IsIconic
+    GetClassNameA
