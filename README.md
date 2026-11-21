@@ -20,7 +20,7 @@ Needs LLVM (clang, lld-link, llvm-dlltool):
 This writes `build/mgs3danim.asi`. Put it and `mgs3danim.ini` into the game's `plugins` folder (an ASI loader is
 needed).
 
-CREDITS
+## CREDITS
 - cipherxof - MGS3CrouchWalk. The crouch-walk feature in this mod is based on
   MGS3CrouchWalk's design and on the game-code offsets documented in it.
   https://github.com/cipherxof/MGS3CrouchWalk
