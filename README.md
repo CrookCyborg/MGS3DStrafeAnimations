@@ -8,7 +8,6 @@
 
 ## Files
 - `mgs3danim.c` - the whole mod (one C file, no C runtime)
-- `all_settings_reference.ini` - every setting with its built-in value (none of them is needed)
 - `build/` - `build.sh` and the import definitions for kernel32 / user32 / gdi32
 - `tools/` - tests against a model of the game, and a check of the game exe (see `tools/README.txt`)
 
